@@ -1,0 +1,10 @@
+@font-face {
+  font-family: "AquaGrotesque";
+  src: local("AquaGrotesque"),
+    url("./fonts/AquaGrotesque.ttf") format("truetype");
+}
+@font-face {
+  font-family: "SpaceGrotesk";
+  src: local("SpaceGrotesk"), url("./fonts/SpaceGrotesk.ttf") format("truetype");
+}
+
